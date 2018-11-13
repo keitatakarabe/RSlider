@@ -1,0 +1,2 @@
+右側にViewを重ねてその上にScrollViewを重ねた。詳しくはコード参照。
+ViewとScrollViewの配置はStoryboardを使っています。
